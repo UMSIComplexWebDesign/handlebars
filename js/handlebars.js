@@ -1,3 +1,5 @@
+<script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+
 //Retrieve the template data from the HTML .
 var template = $('#handlebars-demo').html();
 
